@@ -1,0 +1,19 @@
+{
+  "name": "aplicacaonode",
+  "version": "1.0.0",
+  "description": "aplicativo da aula",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ZeniSkywalker/AplicacaoNodeCI.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ZeniSkywalker/AplicacaoNodeCI/issues"
+  },
+  "homepage": "https://github.com/ZeniSkywalker/AplicacaoNodeCI#readme"
+}
